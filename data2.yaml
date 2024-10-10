@@ -1,0 +1,25 @@
+  name:
+    standard:   
+      user: standard_user
+      password: secret_sauce
+    #problem:    
+     # name: problem_user
+      #password: secret_sauce
+    #performance:  
+      #name: performance_glitch_user
+      #password: secret_sauce
+  information:
+    work:
+      first_name: John
+      last_name: Doe
+      postal: 12345
+  #Password: secret_sauce
+  url:  https://www.saucedemo.com/v1/index.html
+  browser: edge
+    #standard_user
+    #problem_user
+    #performance_glitch_user
+    #pip install yaml
+    #pip install robotframework-csvlibrary
+  Verify:   Sauce Labs Backpack  $29.99
+  timeout:  20
